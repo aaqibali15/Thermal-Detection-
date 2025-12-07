@@ -34,4 +34,4 @@ val: ../valid/images
 test: ../test/images
 
 nc: <number_of_classes>
-names: ['Person', 'Car', ...] # Update with your specific class names
+names: ['Person', 'Car'] 
